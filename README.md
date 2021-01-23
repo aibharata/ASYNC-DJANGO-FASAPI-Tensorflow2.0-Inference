@@ -10,19 +10,19 @@ This repo shows various ways of deploying Tensorflow2.0 models on webservers - T
 
 ### tf2_django_full_stack_app
 
-	This project is full stack django ML/DL inference app integrated with Tensorflow, with both frontend and backend served from django. This shows how to efficiently and properly integrate Tensorflow2.0 with Django to serve AI/ML Models in website. This code works for Tensorflow CPU version and Tensorflow-GPU version.
+This project is full stack django ML/DL inference app integrated with Tensorflow, with both frontend and backend served from django. This shows how to efficiently and properly integrate Tensorflow2.0 with Django to serve AI/ML Models in website. This code works for Tensorflow CPU version and Tensorflow-GPU version.
 
 ### tensorflow2_django_api_wsgi
 
-	This project is rest-api based django ML/DL inference app integrated with Tensorflow, based on djangorestframework (drf). This is a synchronous app that can be deployed with uwsgi server.
+This project is rest-api based django ML/DL inference app integrated with Tensorflow, based on djangorestframework (drf). This is a synchronous app that can be deployed with uwsgi server.
 
 ### tensorflow2_django_api_asgi
 
-	This demonstates the async capabilities of django. This project is rest-api based django ML/DL inference app integrated with Tensorflow, without drf. Currently there is no out of box aysnc support for drf. This is a asynchronous app that can be deployed with uvicorn and gunicorn server.
+This demonstates the async capabilities of django. This project is rest-api based django ML/DL inference app integrated with Tensorflow, without drf. Currently there is no out of box aysnc support for drf. This is a asynchronous app that can be deployed with uvicorn and gunicorn server.
 
 ### tensorflow2_fastapi
 
-	This project is rest-api based FASTAPI ML/DL inference app integrated with Tensorflow. This is a asynchronous app that can be deployed with uvicorn and gunicorn server.
+This project is rest-api based FASTAPI ML/DL inference app integrated with Tensorflow. This is a asynchronous app that can be deployed with uvicorn and gunicorn server.
 
 ### Successful Build Environment
 
